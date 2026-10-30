@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Coruson Report Status Scanner
 // @namespace    haesl.qa.report-status-scanner
-// @version      1.0.1
+// @version      5.3.0
 // @description  Scans Ideagen Coruson CAR and IOR reports and displays workflow status.
 // @author       Bryce Lee
 //

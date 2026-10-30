@@ -1,11 +1,16 @@
 // ==UserScript==
-// @name         HAESL Report Status Scanner
-// @namespace    haesl.qa
-// @version      5.3.0
-// @description  Builds a status ribbon for CAR and IOR records visible in Ideagen and extracts workflow data in hidden same-origin frames.
-// @author       Bryce Lee / HAESL QA
+// @name         Coruson Report Status Scanner
+// @namespace    haesl.qa.report-status-scanner
+// @version      1.0.1
+// @description  Scans Ideagen Coruson CAR and IOR reports and displays workflow status.
+// @author       Bryce Lee
+//
 // @match        https://haesl.gaelenlighten.com/Reporting/ReportingManagement*
 // @match        https://haesl.gaelenlighten.com/Reporting/Report/Index/*
+//
+// @updateURL    https://raw.githubusercontent.com/JwoToLee/Coruson-Report-Status-Scanner/main/Report-Status-Scanner.user.js
+// @downloadURL  https://raw.githubusercontent.com/JwoToLee/Coruson-Report-Status-Scanner/main/Report-Status-Scanner.user.js
+//
 // @grant        none
 // @run-at       document-idle
 // @noframes
